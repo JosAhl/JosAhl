@@ -1,16 +1,10 @@
-Hello, I'm Josefine! 👋
+### Hello, I'm Josefine! 👋
 
 Fullstack Web Development Student, Yrgo Göteborg 
 
 ---
 
-### 🚀 About Me
-
-I study fullstack web development at Yrgo, Göteborg. Here you can find some of my proud and less impressive moments througout the jouney. After a year I've learned so much and cannot wait to delve deeper.
-
----
-
-### 🛠️ Languages & Tools
+### Languages & Tools 🛠️
 
 ## Frontend
 
