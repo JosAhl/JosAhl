@@ -2,6 +2,8 @@
 
 Fullstack Web Development Student, Yrgo Göteborg 
 
+I’m drawn to web development because it combines creativity, problem-solving, and attention to detail. I enjoy seeing projects grow and evolve, whether starting from scratch or improving what already exist. My goal is to help build a web that’s inclusive, accessible, and enjoyable to use.
+
 ---
 
 ## Languages & Tools 🛠️
